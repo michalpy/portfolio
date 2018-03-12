@@ -5,6 +5,6 @@
 #python #jupyter #pandas #sklearn #matplotlib #seaborn
 
 **topics:**
-#data_preprocessing #data_visualization #missing_data_imputation #categorical_data_encoding #dummy_variables #dummy_variable_trap   #feature_scaling #classification #model_evaluation #cross_validation #hyperparameters_tuning
+#data_preprocessing #data_visualization #missing_data_imputation #encoding_categorical_variables #dummy_variables #dummy_variable_trap   #feature_scaling #classification #model_evaluation #cross_validation #hyperparameters_tuning
 
-2. In progress..
+2. In progress...
