@@ -1,8 +1,9 @@
 # This is my data science portfolio:
-
+<a id='Credit Card Fraud'></a>
 
 1. Kaggle: Credit Card Fraud Detection - **imbalanced classification** problem and **sampling techniques comparison**
-* link: <a id='Credit Card Fraud'>https://github.com/michalpy/portfolio/blob/master/Kaggle%20-%20Credit%20Card.ipynb</a>
+
+<a href='#Credit Card Fraud'>https://github.com/michalpy/portfolio/blob/master/Kaggle%20-%20Credit%20Card.ipynb</a>
 
 **Summary:**
 The aims of this notebook is to **deal with imbalanced dataset using sampling techniques** and **evalute performances of the classifiers** (**Logistic Regression, KNeigbors, Linear Support Vector Machine, Random Forest**). It focuses on both choosing the classifier that performance is acceptable in terms of fraud detection and **comparison** between **performance of the models** built on top of the **different sampling techniques** (**under-sampling, over-sampling and combined**). 
