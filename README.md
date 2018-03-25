@@ -17,7 +17,7 @@ In the last section, notebook visualizes comparison between classifiers, samplin
 #data_preprocessing #feature_scaling #sampling_techniques #classification #model_evaluation #recall_and_precision #sampling_techniques_vs_classifiers_comparison
 
 
-## 2. [Kaggle: Titanic - **classification** problem] (https://github.com/michalpy/portfolio/blob/master/Kaggle%20-%20Titanic.ipynb)
+## 2. [Kaggle: Titanic - **classification** problem](https://github.com/michalpy/portfolio/blob/master/Kaggle%20-%20Titanic.ipynb)
 
 * **Summary:**
 
