@@ -1,4 +1,4 @@
-# This is my data science portfolio:
+# This is my data science portfolio
 
 ## 1. [Kaggle: Credit Card Fraud Detection - **imbalanced classification** problem and **sampling techniques comparison**](https://github.com/michalpy/portfolio/blob/master/Kaggle%20-%20Credit%20Card.ipynb)
 
